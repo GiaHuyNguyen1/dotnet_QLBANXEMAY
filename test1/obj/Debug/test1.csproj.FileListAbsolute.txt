@@ -1,0 +1,88 @@
+E:\DoAn\test1\test1\bin\Debug\test1.exe
+E:\DoAn\test1\test1\bin\Debug\test1.pdb
+E:\DoAn\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\DoAn\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\test1\test1\obj\Debug\test1.exe
+E:\DoAn\test1\test1\obj\Debug\test1.pdb
+E:\DoAn\test1\test1\obj\Debug\test1.DangNhap.resources
+E:\DoAn\test1\test1\obj\Debug\test1.KhachHang.resources
+E:\DoAn\test1\test1\obj\Debug\test1.NhanVien.resources
+E:\DoAn\test1\test1\obj\Debug\test1.Admin.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.exe
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.pdb
+C:\Users\MyPC\Desktop\test1\test1\bin\Debug\test1.exe
+C:\Users\MyPC\Desktop\test1\test1\bin\Debug\test1.pdb
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.KhachHang.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.NhanVien.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.Admin.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.DangNhap.resources
+C:\Users\MyPC\Desktop\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\test2\test1\test1\obj\Debug\test1.exe
+E:\DoAn\test2\test1\test1\obj\Debug\test1.pdb
+E:\DoAn\test2\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\test2\test1\test1\obj\Debug\test1.KhachHang.resources
+E:\DoAn\test2\test1\test1\obj\Debug\test1.NhanVien.resources
+E:\DoAn\test2\test1\test1\obj\Debug\test1.Admin.resources
+E:\DoAn\test2\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\DoAn\test2\test1\test1\obj\Debug\test1.DangNhap.resources
+E:\DoAn\test2\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\test2\test1\test1\bin\Debug\test1.exe
+E:\DoAn\test2\test1\test1\bin\Debug\test1.pdb
+C:\Users\MyPC\Desktop\test2\test1\test1\obj\Debug\test1.exe
+C:\Users\MyPC\Desktop\test2\test1\test1\obj\Debug\test1.pdb
+C:\Users\MyPC\Desktop\test2\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.exe
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.pdb
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.KhachHang.resources
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.NhanVien.resources
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.Admin.resources
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.DangNhap.resources
+E:\DoAn\test2 (1)\test2\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\test2 (1)\test2\test1\test1\bin\Debug\test1.exe
+E:\DoAn\test2 (1)\test2\test1\test1\bin\Debug\test1.pdb
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.exe
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.pdb
+E:\DoAn\test3\test2\test1\test1\bin\Debug\test1.exe
+E:\DoAn\test3\test2\test1\test1\bin\Debug\test1.pdb
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.KhachHang.resources
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.NhanVien.resources
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.Admin.resources
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.DangNhap.resources
+E:\DoAn\test3\test2\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.exe
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.pdb
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\bin\Debug\test1.exe
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\bin\Debug\test1.pdb
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.KhachHang.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.NhanVien.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.Admin.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.DangNhap.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.HangTrongKho.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.BanHang.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\obj\Debug\test1.Report.resources
+E:\DoAn\DOAN_DOTNET\test2\test1\test1\bin\Debug\test1.exe.config
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\bin\Debug\test1.exe.config
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.exe
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.pdb
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\bin\Debug\test1.exe
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\bin\Debug\test1.pdb
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.BanHang.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.HangTrongKho.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.KhachHang.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.NhanVien.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.Admin.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.DangNhap.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.Report.resources
+C:\Users\Ulrich\Downloads\DOAN_DOTNET22\DOAN_DOTNET\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
